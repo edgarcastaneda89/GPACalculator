@@ -1,0 +1,51 @@
+The Godfather,Francis Ford Coppola,Marlon Brando,Al Pacino,1972,175
+Titanic,James Cameron,Leonardo DiCaprio,Kate Winslet,1997,194
+The Shawshank Redemption,Frank Darabont,Tim Robbins,Morgan Freeman,1994,142
+The Dark Knight,Christopher Nolan,Christian Bale,Heath Ledger,2008,152
+The Lord of the Rings,Peter Jackson,Elijah Wood,Ian McKellen,2001,178
+Pulp Fiction,Quentin Tarantino,John Travolta,Uma Thurman,1994,154
+Forrest Gump,Robert Zemeckis,Tom Hanks,Robin Wright,1994,142
+Star Wars A New Hope,George Lucas,Mark Hamill,Harrison Ford,1977,121
+The Matrix,Lana Wachowski,Keanu Reeves,Laurence Fishburne,1999,136
+The Silence of the Lambs,Jonathan Demme,Jodie Foster,Anthony Hopkins,1991,118
+Saving Private Ryan,Steven Spielberg,Tom Hanks,Matt Damon,1998,169
+Goodfellas,Martin Scorsese,Robert De Niro,Ray Liotta,1990,146
+Schindler's List,Steven Spielberg,Liam Neeson,Ralph Fiennes,1993,195
+Gladiator,Ridley Scott,Russell Crowe,Joaquin Phoenix,2000,155
+The Lion King,Roger Allers and Rob Minkoff,Matthew Broderick,James Earl Jones,1994,88
+The Terminator,James Cameron,Arnold Schwarzenegger,Linda Hamilton,1984,107
+Die Hard,John McTiernan,Bruce Willis,Alan Rickman,1988,131
+Jurassic Park,Steven Spielberg,Sam Neill,Laura Dern,1993,127
+Back to the Future,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,1985,116
+Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,Harrison Ford,Karen Allen,1981,115
+The Exorcist,William Friedkin,Ellen Burstyn,Max von Sydow,1973,122
+Jaws,Steven Spielberg,Roy Scheider,Robert Shaw,1975,124
+E.T. the Extra-Terrestrial,Steven Spielberg,Henry Thomas,Drew Barrymore,1982,115
+The Sixth Sense,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,1999,107
+The Social Network,David Fincher,Jesse Eisenberg,Andrew Garfield,2010,120
+The Grand Budapest Hotel,Wes Anderson,Ralph Fiennes,Tony Revolori,2014,99
+Whiplash,Damien Chazelle,Miles Teller,J.K. Simmons,2014,107
+La La Land,Damien Chazelle,Ryan Gosling,Emma Stone,2016,128
+Inception,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,2010,148
+Fight Club,David Fincher,Brad Pitt,Edward Norton,1999,139
+The Avengers,Joss Whedon,Robert Downey Jr.,Chris Evans,2012,143
+The Departed,Martin Scorsese,Leonardo DiCaprio,Matt Damon,2006,151
+The Prestige,Christopher Nolan,Hugh Jackman,Christian Bale,2006,130
+Megamind,Tom McGrath,Will Ferrell,Brad Pitt,2010,96
+The Great Gatsby,Baz Luhrmann,Leonardo DiCaprio,Carey Mulligan,2013,143
+Blade Runner 2049,Denis Villeneuve,Ryan Gosling,Harrison Ford,2017,164
+Mad Max,George Miller,Tom Hardy,Charlize Theron,2015,120
+The Revenant,Alejandro González Iñárritu,Leonardo DiCaprio,Tom Hardy,2015,156
+Dunkirk,Christopher Nolan,Fionn Whitehead,Tom Hardy,2017,106
+Gravity,Alfonso Cuarón,Sandra Bullock,George Clooney,2013,91
+Interstellar,Christopher Nolan,Matthew McConaughey,Anne Hathaway,2014,169
+The Wolf of Wall Street,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,2013,180
+Arrival,Denis Villeneuve,Amy Adams,Jeremy Renner,2016,116
+Her,Spike Jonze,Joaquin Phoenix,Scarlett Johansson (voice),2013,126
+Birdman,Alejandro González Iñárritu,Michael Keaton,Edward Norton,2014,119
+The Hateful Eight,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,2015,187
+El Camino,Vince Gilligan,Aaron Paul,Bryan Cranston,2019,122
+Black Swan,Darren Aronofsky,Natalie Portman,Mila Kunis,2010,108
+Black Widow,Cate Shortland,Scarlett Johansson,Florence Pugh,2021,133
+Avatar: Way of the Water,James Cameron,Sam Worthington,Zoe Saldana,2024,160
+abc,mom,alexis,diego,2002,120
